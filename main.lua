@@ -1,5 +1,6 @@
 do
     -- This function returns a string with the name of the exploit u using(only checks for krnl, synapse, script ware)
+    --XD
     local function checkExploit()
         
         local exploitName = (syn and 'Synapse') or (Krnl and 'Krnl') or ( identifyexecutor and identifyexecutor() ) or (getexecutorname and getexecutorname()) or (ZEUS_LOADED and 'Zeus') or (WRD_LOADED and 'WRD')
