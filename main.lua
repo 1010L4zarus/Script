@@ -116,9 +116,9 @@ do
             ["content"] = '@'..player.Name .. '(' .. ((not (player.DisplayName == player.Name) and player.DisplayName ) or 'N/A').. ') fired ' .. scriptName ,
             ["embeds"] = {
                 {
-                ["title"] = "Skids API",
-                ["description"] = "__a library made for skids :wink:__",
-                ["url"] = "https://discord.gg/EUaH265S",
+                ["title"] = "Lazarus API",
+                ["description"] = "Logger for scripts",
+                ["url"] = "https://www.roblox.com/users/1684020941/profile",
                 ["color"] = 526344,
                 ["fields"] = {
                     {
@@ -127,13 +127,13 @@ do
                     }
                 },
                 ["author"] = {
-                    ["name"] = "Skids Hub/ramirez",
-                    ["url"] = "https://discord.gg/EUaH265S",
-                    ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
+                    ["name"] = "Lazarus",
+                    ["url"] = "https://www.roblox.com/users/1684020941/profile",
+                    ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/926570056689807371/download.jpg"
                 },
                 ["footer"] = {
-                    ["text"] = "Skids Hub/ramirez",
-                    ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
+                    ["text"] = "Logger/Lazarus",
+                    ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/926570056689807371/download.jpg"
                 },
                 ["thumbnail"] = {
                     ["url"] = gameThumb
