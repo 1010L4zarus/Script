@@ -56,13 +56,13 @@ do
                             }
                         },
                         ["author"] = {
-                            ["name"] = "By Lazarus",
+                            ["name"] = "Lazarus",
                             ["url"] = "https://www.roblox.com/users/1684020941/profile",
-                            ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
+                            ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/926570056689807371/download.jpg"
                         },
                         ["footer"] = {
                             ["text"] = "Logger/Lazarus",
-                            ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
+                            ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/926570056689807371/download.jpg"
                         },
                         ["timestamp"] = parseDateTime()
                         }
