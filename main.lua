@@ -58,11 +58,11 @@ do
                         ["author"] = {
                             ["name"] = "Lazarus",
                             ["url"] = "https://www.roblox.com/users/1684020941/profile",
-                            ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/926570056689807371/download.jpg"
+                            ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/927388572460412958/download.png"
                         },
                         ["footer"] = {
                             ["text"] = "Logger/Lazarus",
-                            ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/926570056689807371/download.jpg"
+                            ["icon_url"] = "https://cdn.discordapp.com/attachments/919385531018805299/927388572460412958/download.png"
                         },
                         ["timestamp"] = parseDateTime()
                         }
