@@ -61,7 +61,7 @@ do
                             ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
                         },
                         ["footer"] = {
-                            ["text"] = "Skids Hub/ramirez",
+                            ["text"] = "Logger/Lazarus",
                             ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
                         },
                         ["timestamp"] = parseDateTime()
