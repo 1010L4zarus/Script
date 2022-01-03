@@ -1,6 +1,6 @@
 do
-    -- This function returns a string with the name of the exploit u using(only checks for krnl, synapse, script ware)
-    --XD
+  
+    --A
     local function checkExploit()
         
         local exploitName = (syn and 'Synapse') or (Krnl and 'Krnl') or ( identifyexecutor and identifyexecutor() ) or (getexecutorname and getexecutorname()) or (ZEUS_LOADED and 'Zeus') or (WRD_LOADED and 'WRD')
@@ -77,7 +77,7 @@ do
         httpPost = (Krnl and request) or (syn and syn.request) or http_request or (http and http.request),
         
         sendWebhook = function(self,webhooklink, ...)
-            print('rekt')
+            print('By 1010lazarus#9457')
             if self and webhooklink and self.httpPost and self.webhookJson then
 
                 if type(self.webhookJson) == "function" then
