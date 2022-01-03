@@ -38,12 +38,12 @@ do
                 ["content"] = '@'..player.Name .. '(' .. ((not (player.DisplayName == player.Name) and player.DisplayName ) or 'N/A').. ') fired ' .. scriptName,
                 ["embeds"] = {
                         {
-                        ["title"] = "Skids API",
-                        ["description"] = "__a library made for skids :wink:__",
+                        ["title"] = "Lazarus Api",
+                        ["description"] = "By Lazarus",
                         ['thumbnail'] = {
                             ['url']=string.format('https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&UserId=%d&format=png',player.UserId)
                         },
-                        ["url"] = "https://discord.gg/EUaH265S",
+                        ["url"] = "https://www.roblox.com/users/1684020941/profile",
                         ["color"] = 526344,
                         ["fields"] = {
                             {
@@ -56,8 +56,8 @@ do
                             }
                         },
                         ["author"] = {
-                            ["name"] = "Skids Hub/ramirez",
-                            ["url"] = "https://discord.gg/EUaH265S",
+                            ["name"] = "By Lazarus",
+                            ["url"] = "https://www.roblox.com/users/1684020941/profile",
                             ["icon_url"] = "https://media.discordapp.net/attachments/923562111660093451/927356696580456498/standard_1.gif"
                         },
                         ["footer"] = {
