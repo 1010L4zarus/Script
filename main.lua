@@ -39,7 +39,7 @@ do
                 ["embeds"] = {
                         {
                         ["title"] = "Lazarus Api",
-                        ["description"] = "By Lazarus",
+                        ["description"] = "Logger for scripts",
                         ['thumbnail'] = {
                             ['url']=string.format('https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&UserId=%d&format=png',player.UserId)
                         },
